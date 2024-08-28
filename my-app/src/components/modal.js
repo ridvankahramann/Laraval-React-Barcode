@@ -33,7 +33,12 @@ function Example() {
     RestClient.postRequest(AppUrl.newBarcode, {
       data
     }).then((res) => {
-      return res.data.data;
+      if (res.status === 200) {
+        Notification.success({
+          title: res.data.title,
+          text: res.data.text
+        });
+        handleClose(true);
       }).catch((err) => {
         Notification.error({
           title: "Hata",
