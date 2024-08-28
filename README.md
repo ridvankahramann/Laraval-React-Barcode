@@ -2,7 +2,11 @@
 
 Bu proje, Laravel ve React.js kullanarak geliştirilmiş bir barkod yönetim sistemidir. Uygulama, kamerayı açarak barkodları okuyabilir, bu barkodları sepete ekleyebilir ve yeni barkodlar ekleyebilirsiniz. Veritabanı olarak MySQL kullanılmıştır.
 
-![Proje Ekran Görüntüsü](proje-ekran-goruntusu.png)
+![Ekran görüntüsü 2024-08-28 205300](https://github.com/user-attachments/assets/a40c62f0-f8dc-4376-9ad5-d84110c18446)
+
+![Ekran görüntüsü 2024-08-28 205327](https://github.com/user-attachments/assets/7c946672-9d73-4bf3-a1f8-23044a452661)
+
+![Ekran görüntüsü 2024-08-28 205600](https://github.com/user-attachments/assets/cbac6285-3abd-4c1c-81ad-e53f4c81bd6c)
 
 ## Özellikler
 
