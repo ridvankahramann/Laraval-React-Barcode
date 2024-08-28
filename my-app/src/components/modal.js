@@ -39,6 +39,7 @@ function Example() {
           text: res.data.text
         });
         handleClose(true);
+      }
       }).catch((err) => {
         Notification.error({
           title: "Hata",
